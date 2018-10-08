@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_2ee935f54df8f12033a007d1d984f72e0f3832fa.jar" />
+    </item>
+    <item
+        jar="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_9a9203066ab0bd1c1963d85edd19a33d336523ac.jar" />
+    </item>
+    <item
+        jar="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_201a7d38fadf3ec1cb6a820d10414745432e1500.jar" />
+    </item>
+    <item
+        jar="/Users/wangzhuozhou/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.10/1a14fe9e912f6e8bdbb5429b78b4090d8b47bc1/aspectjrt-1.8.10.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01a14fe9e912f6e8bdbb5429b78b4090d8b47bc1">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/aspectjrt-1.8.10_74d461bc89de081596e58facad232ee85a3e0f1b.jar" />
+    </item>
+    <item
+        jar="/Users/wangzhuozhou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c9034da6f64d0ce363811ec8af1bc23fefd3d35e.jar" />
+    </item>
+    <item
+        jar="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_a6b6c42849d12d39539b7bdf49b24c83a120230e.jar" />
+    </item>
+    <item
+        jar="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_1ac0904841bcddcb9bb9eddd6a5dd040077343c6.jar" />
+    </item>
+    <item
+        jar="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_10418befb55ad8320c763da6c7a98efc01a54308.jar" />
+    </item>
+    <item
+        jar="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_1f8d607401f56b574f6409f4b47a519d4c933952.jar" />
+    </item>
+    <item
+        jar="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/exploded-aar/com.sensorsdata.analytics.android/SensorsAnalyticsSDK/1.9.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0c41d613ae06347d2bc0abe227e4edf9206db27a">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/com.sensorsdata.analytics.android-SensorsAnalyticsSDK-1.9.3_6453ff6e2e6c4c0ac64e7eb8302baf60335edbed.jar" />
+    </item>
+    <item
+        jar="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_c9491e95faceb73156d5fad384b85bc9c96059e2.jar" />
+    </item>
+    <item
+        jar="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/wangzhuozhou/Documents/SDK/sa-sdk-android/demo/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_79f2ade421a62b42c53d92191270c473e62daf2c.jar" />
+    </item>
+
+</items>
